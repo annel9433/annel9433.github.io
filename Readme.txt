@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Lynn
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://github.com/annel9433/annel9433.github.io.git
+
+Author: Anesu.com
